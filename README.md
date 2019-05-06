@@ -1,6 +1,6 @@
 # Design-Pattern
-##设计模式
-##面向对象的核心特征
+## 设计模式
+## 面向对象的核心特征
      封装、继承、多态
 ## 对象设计的基本原则 GRASP General Responsibility Assignment Software Principles
     1. Creator 创建者
