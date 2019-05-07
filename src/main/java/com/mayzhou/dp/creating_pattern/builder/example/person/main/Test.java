@@ -16,6 +16,5 @@ public class Test {
         PersonDirector pd = new PersonDirector();
         Person person = pd.constructPerson(new ManBuilderImpl());
         System.out.println(person.getBody());
-
     }
 }
